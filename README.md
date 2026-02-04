@@ -57,3 +57,5 @@ cd escape-room
 
 # Launch (No build tools required - Pure Performance)
 open index.html
+
+Made with ❤️
