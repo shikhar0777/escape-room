@@ -1,6 +1,6 @@
 # 🧩 Smart Escape Room: The Logic-Driven Puzzle Engine
 
-[**Try the Experience**](https://escape-room-three-theta.vercel.app/) 
+[**Try the Experience**](https://escape-room-three-theta.vercel.app/) |
 [**View Repository**](https://github.com/shikhar0777/escape-room)
 
 ---
