@@ -1,4 +1,4 @@
-// Simple click interaction
+
 const images = document.querySelectorAll(".gallery img");
 
 images.forEach((img, index) => {
